@@ -14,8 +14,8 @@ platform :ios, '13.0'
 
 target 'YourApp' do
   use_frameworks!
-  pod 'UNAD-Global', '2.9.22'
-  # Alternatives: pod 'UNAD-All', '2.9.23' or pod 'UNAD-Cn', '2.9.21'
+  pod 'UNAD-Global', '2.9.23'
+  # Alternatives: pod 'UNAD-All', '2.9.23' or pod 'UNAD-Cn', '2.9.23'
 end
 ```
 
